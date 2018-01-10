@@ -5,8 +5,8 @@ Tema photoshop para GIMP
 ```ssh
 $ cd ~/Downloads
 $ git clone https://github.com/orionsc/photogimp.git
-$ cp photogimp/.gimp-2.8/ ~/
-$ rm -r photogimp/
+$ mv mv photogimp/.gimp-2.8/ ~/.gimp-2.8/
+$ rm -rf photogimp/
 ```
 
 ## Créditos Diolinux ##
